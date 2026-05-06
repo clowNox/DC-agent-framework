@@ -1,6 +1,6 @@
 # DC Agent Framework
 
-A production grade multi agent system built for Claude Code. Designed to make you a better developer by automating code review, test writing, architecture analysis, compliance checking, documentation, and continuous learning all while keeping you in full control of every decision.
+A production grade multi agent system built with Claude Code. Designed to make you a better developer by automating code review, test writing, architecture analysis, compliance checking, documentation, and continuous learning all while keeping you in full control of every decision.
 
 ---
 
