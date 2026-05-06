@@ -1,6 +1,6 @@
-# Claude Agent Framework
+# DC Agent Framework
 
-A production-grade multi-agent system built for Claude Code. Designed to make you a better developer by automating code review, test writing, architecture analysis, compliance checking, documentation, and continuous learning — all while keeping you in full control of every decision.
+A production grade multi agent system built for Claude Code. Designed to make you a better developer by automating code review, test writing, architecture analysis, compliance checking, documentation, and continuous learning all while keeping you in full control of every decision.
 
 ---
 
@@ -58,10 +58,10 @@ Every problem found by any agent is graded 1-10:
 Agents assign preliminary grades. The orchestrator verifies and finalises every grade with full system context. The orchestrator's grade is always final.
 
 ### Failure Handling
-No agent is ever silent. Every agent always submits a report — complete or incomplete. When an agent fails, the orchestrator investigates the root cause, documents it, and presents you with a path forward. If one clear solution exists, it presents that. If a genuine fork exists, it presents Option A and Option B. You decide.
+No agent is ever silent. Every agent always submits a report complete or incomplete. When an agent fails, the orchestrator investigates the root cause, documents it, and presents you with a path forward. If one clear solution exists, it presents that. If a genuine fork exists, it presents Option A and Option B. You decide.
 
 ### The Audit Trail
-Every problem, every grade, every fix, every decision is documented. You are always the final verification layer. Every resolved issue generates a completion report that comes to you regardless of grade. You can interrogate the orchestrator at any time — "Why did you do this?" — and it must answer fully.
+Every problem, every grade, every fix, every decision is documented. You are always the final verification layer. Every resolved issue generates a completion report that comes to you regardless of grade. You can interrogate the orchestrator at any time "Why did you do this?" and it must answer fully.
 
 ---
 
